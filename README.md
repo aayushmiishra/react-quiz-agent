@@ -128,7 +128,3 @@ Type `exit` to stop.
 * No persistent memory across sessions
 
 ---
-
-## Author
-
-Aayush Mishra
